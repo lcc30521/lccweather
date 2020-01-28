@@ -7,7 +7,7 @@
 
 
 $ composer require lcc/weather -vvv
-```
+
 
 ## 用法
 
