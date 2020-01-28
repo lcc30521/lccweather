@@ -1,6 +1,6 @@
-<h1 align="center"> weather </h1>
 
-<p align="center"> test weatger.</p>
+
+<p align="center">高德天气组件</p>
 
 
 ## Installing
@@ -21,7 +21,7 @@ $response = $weather->getWeather('深圳');
 
 
 
-## Contributing
+
 
 
 
