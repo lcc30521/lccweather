@@ -1,9 +1,9 @@
 <?php
 
-namespace Lcc\Weather;
+namespace Lccgsn\Weather;
 use GuzzleHttp\Client;
-use Lcc\Weather\Exceptions\HttpException;
-use lcc\Weather\Exceptions\InvalidArgumentException;
+use Lccgsn\Weather\Exceptions\HttpException;
+use lccgsn\Weather\Exceptions\InvalidArgumentException;
 class Weather
 {
 	protected $key;

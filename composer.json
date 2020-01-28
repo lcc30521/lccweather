@@ -1,5 +1,5 @@
 {
-    "name": "lcc\/weather",
+    "name": "lccgsn\/weather",
     "description": "test weatger",
     "license": "MIT",
     "require": {
@@ -7,13 +7,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Lcc\\Weather\\": "src"
+            "Lccgsn\\Weather\\": "src"
         }
     },
     "extra": {
     "laravel": {
         "providers": [
-            "Lcc\\Weather\\ServiceProvider"
+            "Lccgsn\\Weather\\ServiceProvider"
         ]
     }
     }

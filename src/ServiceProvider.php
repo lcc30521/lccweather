@@ -1,6 +1,6 @@
 <?php
 
-namespace Lcc\Weather;
+namespace Lccgsn\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

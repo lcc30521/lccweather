@@ -1,6 +1,6 @@
 <?php
 
-namespace LCC\Weather\Exceptions;
+namespace Lccgsn\Weather\Exceptions;
 
 class InvalidArgumentException extends Exception
 {
