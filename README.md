@@ -3,13 +3,13 @@
 <p align="center">高德天气组件</p>
 
 
-## Installing
+## 安装
 
 
 $ composer require lcc/weather -vvv
 ```
 
-## Usage
+## 用法
 
 use Lcc\Weather\Weather;
 
